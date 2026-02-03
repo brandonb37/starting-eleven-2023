@@ -21,7 +21,7 @@ export default function ContactPage() {
               <p>
                 1800 Genessee ST. STE 102
                 <br />
-                Kansas City, KS 64102
+                Kansas City, MO 64102
                 <br />
                 <a
                   href="https://maps.app.goo.gl/9i745UvyVXKSAUvA9"
